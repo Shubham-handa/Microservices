@@ -1,0 +1,7 @@
+com\authorizationMicroservice\servicetests\CustomUserDetailsServiceTest.class
+com\authorizationMicroservice\AuthorizationMicroserviceApplicationTests.class
+com\authorizationMicroservice\JWTControllerTest.class
+com\authorizationMicroservice\JWTUtilityClassTest.class
+com\authorizationMicroservice\model\UserTest.class
+com\authorizationMicroservice\UserDetailsTest.class
+com\authorizationMicroservice\JwtAuthenticationControllerEndPointsTest.class
